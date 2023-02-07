@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.hero {
+ font-size: larger; 
+ font-weight: bolder;
+ font-style: oblique;
+ color: goldenrod;
+}
+.hero2 {
+  color:transparent;
+}

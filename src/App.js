@@ -1,21 +1,25 @@
-import logo from './logo.svg';
+import logo from './logo.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+      <div className="hero">Macha's Collection</div>
+      <div className="hero2">
+        Coming Soon
+      </div>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Your Number one Apparel and Clothing store
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://givenmalambo.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Designed By Given Malambo
         </a>
       </header>
     </div>
