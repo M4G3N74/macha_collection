@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <div className='navbar-container'>
       <p className='logo'>
-        <Link href='/'>Macha's Collection</Link>
+        <Link href='/'>Macha Collection</Link>
       </p>
 
       <buttton type='button' className='cart-icon'>
