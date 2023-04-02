@@ -10,7 +10,7 @@ const Navbar = () => {
         <Link href='/'>Macha Collection</Link>
       </p>
 
-      <buttton type='button' className='cart-icon'>
+      <buttton type='button' className='cart-icon' onClick="">
         <AiOutlineShopping />
         <span className='cart-item-qty'>1</span>
       </buttton>
